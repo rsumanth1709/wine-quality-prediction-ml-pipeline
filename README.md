@@ -229,6 +229,5 @@ GitHub: https://github.com/rsumanth1709
 ✅ Feature Scaling
 
 ✅ Multiple Model Comparison
-✅ Feature Importance Analysis
 
-✅ Internship Portfolio Project
+✅ Feature Importance Analysis
